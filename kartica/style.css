@@ -1,0 +1,20 @@
+body {
+    margin-top: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.kartica {
+    background-color: #dbebf8;
+    width: 400px;
+    padding: 20px;
+    display: flex;
+    border: none;
+    margin: 0 auto;
+    text-align: center;
+    justify-content: space-around;
+    border-bottom: 6px solid #d8cefe;
+}
+
+.img {
+    width: 150px;
+    border: none;
+}

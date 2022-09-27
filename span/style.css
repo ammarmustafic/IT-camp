@@ -1,0 +1,35 @@
+div {
+    display: flex;
+}
+
+.const {
+    color: rgb(28, 28, 94);
+}
+
+.druga {
+    color: rgb(94, 94, 215);
+}
+
+.jednako {
+    color: blue;
+}
+
+.treca-plava {
+    color: darkblue;
+}
+
+.zuta {
+    color: rgb(145, 169, 96);
+}
+
+.zagrada {
+    color: black;
+}
+
+.druga-zagrada {
+    color: red;
+}
+
+.slova {
+    color: rgb(52, 193, 193);
+}

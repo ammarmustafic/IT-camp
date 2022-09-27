@@ -1,0 +1,134 @@
+
+body {
+    opacity: 94%;
+    background-image: linear-gradient(to right, rgb(36, 55, 123),rgb(119, 218, 221))
+  }
+.overlay {
+    margin-top: 150px;
+    width: 290px;
+    height: 385px;
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    background-image: linear-gradient(to top, rgb(168, 246, 251), rgb(46, 79, 126));
+    opacity: 90%;
+}
+
+img {
+    display: block;
+    padding-top: 7px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    height: 200px;
+}
+.info {
+    font-size: 18px;
+    font-family: 'Euclid Circular A', sans-serif;
+    color: rgb(16, 125, 140);
+    padding-bottom: 5px;
+    padding-left: 5px;
+    margin-top: 5px
+}
+.ime {
+    text-align: center;
+    color: rgb(23, 41, 105);
+    font-size: 25px;
+    padding-bottom: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0px;
+    font-family: 'Euclid Circular A', sans-serif;
+}
+.contact {
+    font-size: 25px;
+    border-radius: 10px;
+    padding-left: 30px;
+    padding-bottom: 5px;
+    border: none;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-right: 30px;
+    color: white;
+    text-decoration: none;
+    font-family: 'Euclid Circular A', sans-serif;
+    background-image: linear-gradient(to right, rgb(21, 21, 90),rgb(24, 119, 214));
+}
+.space {
+    width: 4px;
+    height: auto;
+    display: inline-block;
+}
+
+.hero-heading-ct{
+    font-size: 50px;
+    margin-top: 150px;
+    font-family: 'Euclid Circular A', sans-serif;
+    color: white;
+    margin-bottom: 5px;
+    text-align: center;
+}
+.overlay-ct {
+        width: 250px;
+        height: 155px;
+        border-radius: 10px;
+        margin-left: auto;
+        margin-right: auto;
+        background-image: linear-gradient(to top, rgb(168, 246, 251), rgb(46, 79, 126));
+        opacity: 90%;
+}
+
+.mail {
+    width: 15px;
+    font-size: 15px;
+    height: 15px;
+    margin-right: 10px;
+    margin-left: 10px;
+    padding-top: 2px;
+    float: left;
+    display: inline;
+   margin-bottom: 5px;
+}
+
+.email {
+    padding-top: 5px;
+    font-size: 15px;
+    padding-bottom: 5px;
+    padding: 0px;
+    font-family: 'Euclid Circular A', sans-serif;
+}
+
+.phone {
+    width: 15px;
+    height: 15px;
+    margin-right: 10px;
+    padding-top: 2px;
+    margin-left: 10px;
+    display: inline;
+    float: left;
+}
+
+.number {
+    font-size: 15px;
+    padding-top: 5px;
+    display: flex;
+    font-family:'Euclid Circular A', sans-serif;;;
+}
+.home {
+    font-size: 25px;
+    border-radius: 10px;
+    opacity: 85%;
+    padding-left: 20px;
+    border: none;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    padding-right: 20px;
+    text-decoration: none;
+    color: white;
+    font-family: 'Euclid Circular A', sans-serif;;
+    background-image: linear-gradient(to bottom, rgb(168, 246, 251), rgb(46, 79, 126));
+    padding-bottom: 5px;
+}

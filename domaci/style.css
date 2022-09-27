@@ -1,0 +1,31 @@
+.peti-div{
+    width: 500px;
+    height: 35vh;
+    background-color: aqua;
+}
+.peti-heading{
+    font-weight: 500;
+}
+.sesti-heading{
+    font-weight: 500;
+}
+.deveti-paragraph{
+    font-style: inherit;
+    font-size: 15px;
+    color: blue;
+}
+.deseti-paragraph{
+    font-style: inherit;
+    font-size: 15px;
+    color: red;
+}
+.jedanesti-paragraph{
+    font-style: inherit;
+    font-size: 15px;
+    color: white;
+}
+.deveti-paragraph{
+    font-style: inherit;
+    font-size: 15px;
+    color: black;
+}
