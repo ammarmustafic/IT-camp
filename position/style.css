@@ -1,0 +1,39 @@
+body {
+    position: relative;
+    height: 200vh;
+}
+
+.nav {
+    height: 40px;
+    width: 100%;
+    position: sticky;
+    top: 1px;
+    background-color: black;
+}
+
+.div2 {
+    height: 20px;
+    width: 50px;
+    position: relative;
+    background-color: rgb(28, 28, 179);
+    left: 30px;
+}
+
+.text {
+    padding-left: 10px;
+    padding-right: 5px;
+    color: white;
+}
+
+
+
+
+.div3 {
+    height: 20px;
+    width: 50px;
+    margin-left: 75px;
+    bottom: 38.5px;
+    position: relative;
+    background-color: rgb(28, 28, 179);
+    left: 30px;
+}
