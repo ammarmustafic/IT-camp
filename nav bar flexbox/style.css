@@ -1,0 +1,33 @@
+body {
+    background-color: orange;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+
+ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+ul li {
+    list-style: none;
+    display: inline-block;
+    margin: 15px;
+}
+li {
+
+    font-size: 20px;
+}
+
+div {
+    align-self: baseline;
+    flex-wrap: ;
+    display: flex;
+    background-color: black;
+    justify-content: center;
+
+}

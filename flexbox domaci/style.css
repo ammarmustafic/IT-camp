@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, 'DejaVu Sans', 'Liberation Sans', Freesans, sans-serif;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    margin: 0;
+}
+header,
+nav,
+article,
+aside,
+footer {
+    border: 1px solid tomato;
+}
+nav {
+    background-color: aqua;
+}
+
+aside {
+     background-color: blueviolet;
+}
+header {
+    height: 70px;
+    background-color: lime;
+}
+
+main {
+    flex: auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+
+main > nav {
+    width: 300px;
+}
+
+main > article {
+    flex: auto;
+}
+
+main > aside {
+    width: 100px;
+}
+
+footer {
+    height: 80px;
+    background-color: green;
+}
