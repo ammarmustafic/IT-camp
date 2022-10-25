@@ -1,0 +1,11 @@
+div p {
+    background-color: lime;
+}
+
+p {
+    background-color: red;
+}
+
+div > p {
+    background-color: green;
+}
