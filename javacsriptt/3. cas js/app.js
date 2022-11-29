@@ -1,4 +1,4 @@
-// //  1. Uneti broj i proveriti da li je broj pozitivan ili negativan
+// 1. Uneti broj i proveriti da li je broj pozitivan ili negativan
 console.log("-----ZADATAK 1-----");
 broj = prompt("Unesite broj:");
 if(broj > 0) {
@@ -12,7 +12,7 @@ else {
 }
 console.log("\n");
 
-// //  2. Uneti dva broja i proveriti da li su jednaka, ispisati rezultat u konzoli.
+// 2. Uneti dva broja i proveriti da li su jednaka, ispisati rezultat u konzoli.
 console.log("-----ZADATAK 2-----");
 a = prompt("Unesite prvi broj:");
 b = prompt("Unesite drugi broj:");
@@ -24,7 +24,7 @@ else {
 }
 console.log("\n");
 
-// //  3. Uneti broj od 1 do 7 i ispisati koji je dan taj uneti broj
+// 3. Uneti broj od 1 do 7 i ispisati koji je dan taj uneti broj
 console.log("-----ZADATAK 3-----"); 
 dan = Number(prompt("Unesite dan u nedelji:"));
 if (dan === 1){
@@ -46,7 +46,7 @@ if (dan === 1){
 }
 console.log("\n");
 
-// //  4. Uneti broj i proveriti da li je paran ili neparan
+// 4. Uneti broj i proveriti da li je paran ili neparan
 console.log("-----ZADATAK 4-----"); 
 c = Number(prompt("Unesite broj:"));
 if (c % 2 == 0) {
@@ -58,7 +58,7 @@ if (c % 2 == 0) {
 }
 console.log("\n");
 
-// //  5. Uneti broj m i procitati vrednost. n je 1 kada je m vece od 0, n je 0 kada je m 0 i -1 kada je m manje od 0
+// 5. Uneti broj m i procitati vrednost. n je 1 kada je m vece od 0, n je 0 kada je m 0 i -1 kada je m manje od 0
 console.log("-----ZADATAK 5-----"); 
 m = Number(prompt("Unesite broj:"));
 if(m > 0) {
