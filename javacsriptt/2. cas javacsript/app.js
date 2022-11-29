@@ -43,8 +43,9 @@ else {
     console.log("Ne znam ko si ti..");
 }
 
-console.log("----------ZADATAK 1----------");
 // zadatak 1.
+console.log("----------ZADATAK 1----------");
+
 broj = -1;
 if(broj > 0){
     console.log ("Broj je pozitivan");
@@ -59,14 +60,13 @@ else {
 }
 
 
-//zadatak 2
+//zadatak 2.
 console.log("----------ZADATAK 2----------");
 broj1 = 10; 
 broj2 = 5;
-if(broj1 == broj2){
+if(broj1 === broj2){
     console.log("Brojevi su jednaki.");
 } 
 else {
     console.log("Brojevi nisu jednaki");
 }
-
