@@ -59,7 +59,7 @@ else {
 }
 
 
-// 4. zadatak
+// 3. zadatak
 temperatura = Number(prompt("Unesite temperaturu:"));
 if (temperatura < 0) {
     console.log("Smrzavanje."); 
