@@ -83,7 +83,7 @@ else {
     console.log("Greska.");
 }
 
-// Uneti duzine starnica trougla i proveriti da li je trougao jednakostratican, jednakokraki ili raznostranicni.
+// 4. Uneti duzine starnica trougla i proveriti da li je trougao jednakostratican, jednakokraki ili raznostranicni.
 h = Number(prompt("Unesite prvu stranicu:"));
 u = Number(prompt("Unesite drugu stranicu:"));
 o = Number(prompt("Unesite trecu stranicu:"));
@@ -98,7 +98,7 @@ else {
     console.log("Raznostranicni.");
 }
 
-// 6. Uneti broj od 1-12 procitati broj i ispisati koji je to mesec i broj dana u tom mesecu
+// 5. Uneti broj od 1-12 procitati broj i ispisati koji je to mesec i broj dana u tom mesecu
 mesec = Number(prompt("Unesite mesec:"));
 if(mesec === 1) {
     console.log("Januar je, i ima 31 dan u ovom mesecu.");
