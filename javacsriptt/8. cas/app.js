@@ -50,6 +50,7 @@ for(i=cars2.length-1;i>=0;i--){
 console.log(newCars);
 
 // 2. Naci najveci i najmanji element niza
+console.log("----ZADATAK 2----")
 niz = [5, 6, 9, 2, 1];
 max = niz[0];
 min = niz[0];
@@ -66,6 +67,7 @@ console.log("Najveci element niza je:",max);
 console.log("Najmanji element niza je:",min);
 
 // 3. Naci parne i neparne elemente niza i ispisati ih
+console.log("----ZADATAK 3----")
 niz1 = [];
 niz2 = [];
 for(i=0;i<niz.length;i++){
