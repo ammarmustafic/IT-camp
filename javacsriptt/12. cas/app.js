@@ -141,4 +141,4 @@ for (let i = 0; i < duzina; i++) {
   newStr += str[i] + b[i];
 }
 console.log(newStr);
-// Za Domaci: Izdvojiti samo jedinstvene elemente niza
+// Za Domaci: Izdvojiti samo jedinstvene elemente niz
