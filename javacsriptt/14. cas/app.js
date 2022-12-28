@@ -81,5 +81,3 @@ if (ValueOrindex === "value") {
 } else {
   console.log(smallestIndex);
 }
-
-// 6. Dati niz se sastoji od reci i razmaka, vratiti duzinu poslednje reci u nizu
