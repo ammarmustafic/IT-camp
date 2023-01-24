@@ -53,3 +53,14 @@ console.log(Funkcija(uniqueInOrder));
 
 // Domaci: Dat je niz brojeva. Proveriti da li je niz pivot
 // Pivot je niz gde je suma svih brojeva sa leve strane jednaka zbiru brojeva sa desne strane
+const arr = [2, 4, 3, 5, 5, 1];
+let rightSum = 0;
+let leftSum = 0;
+
+for (let i = 0; i < arr.length / 2; i++) {
+  leftSum += arr[i];
+}
+
+for (let i = 0; i < arr.length; i++) {
+  rightSum;
+}
