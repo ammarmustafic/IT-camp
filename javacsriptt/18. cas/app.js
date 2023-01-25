@@ -56,6 +56,7 @@ function nadjiFerida(arr) {
   return arr.indexOf("Ferid");
 }
 console.log(nadjiFerida(nizImena));
+/* kraj zadatka */
 
 const noviNiz = new Set(nizImena); // ovo set nam ne dozvoljava da imamo duplikate
 console.log(noviNiz);
