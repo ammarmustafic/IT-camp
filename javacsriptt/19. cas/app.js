@@ -93,11 +93,5 @@ for (let element in nizB) {
 }
 
 for (let element of nizB) {
-  console.log(element);
-}
-
-console.log(nizB.forEach(pomnozi));
-
-function pomnozi(el) {
-  return el * 2;
+  console.log(element); // ispisace se jedan po jedan element
 }
